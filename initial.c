@@ -1,4 +1,7 @@
-#include<stdio.h>
- main(){
-     printf("Welcome to C programming language");
- }
+#include <stdio.h>
+int main()
+{
+    printf("Welcome to C programming language");
+
+
+}
