@@ -3,5 +3,4 @@ int main()
 {
     printf("Welcome to C programming language");
 
-
 }
